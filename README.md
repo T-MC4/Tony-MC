@@ -7,4 +7,6 @@
 <!---
 T-MC4/T-MC4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+FYI: I've gone through the Hello World tutorial
 --->
